@@ -1,0 +1,4 @@
+# Ghostty is local-only. Its Catppuccin palette is also used while viewing SSH
+# sessions because Ghostty renders the remote shell output.
+theme = Catppuccin Mocha
+keybind = shift+enter=text:\n
